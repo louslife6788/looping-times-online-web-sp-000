@@ -1,5 +1,6 @@
 def using_times
-	#your code here
+	10.times do
+    puts "is this it"#your code here
 end
 
 
